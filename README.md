@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @xKoYGeR
-- 👀 I’m interested in -> C++/Python
-- 📫 How to reach me -> Discord: ӄօʏɢɛʀ#4797
+Welcome to my profile!
+My name is Szymon and I'm beginner C++ software engineer. 
 
 <!---
 xKoYGeR/xKoYGeR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
